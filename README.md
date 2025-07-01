@@ -61,6 +61,7 @@ Gesture/
 - **OpenCV**
 - **MediaPipe**
 - **Flask**
+- **MySQL**
 - **HTML5/CSS3**
 
 ## 👨‍💻 Developed By
